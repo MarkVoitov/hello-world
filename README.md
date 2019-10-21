@@ -1,2 +1,1 @@
-# hello-world
-My first test repository
+я надеюсь, что скоро здесь будет что-то интересное
